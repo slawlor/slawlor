@@ -1,4 +1,22 @@
-### Hi there 👋
+# Hi, I'm Sean and I'm a Rustacean.
+
+<p>
+  <img height="180em" src="https://rustacean.net/assets/rustacean-flat-gesture.svg" alt="Rusty wave" />
+</p>
+
+## About me
+
+I'm currently a software engineer at Meta Platforms in Core Systems. I work on distributed, high-throughput systems.
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=slawlor&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slawlor&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=120&theme=tokyonight&hide=hide%3Dphp,html,java,css,objective-c,tsql,shell,c%23,roff"/>
+</p>
+
+## Selected repos
+
+1. [`ractor`](https://github.com/slawlor/ractor) - Inspired by Erlang's OTP, ractor provides save actor programming paradigms in 100% Rust.
+2. [`akd`](https://github.com/facebook/akd) - Auditable Key Directories (AKDs) are the foundation of Key Transparency at WhatsApp. This is the core logic for WhatsApp's realization.
 
 <!--
 **slawlor/slawlor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
