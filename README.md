@@ -15,7 +15,7 @@ I'm currently a software engineer at Meta Platforms in Core Systems. I work on d
 
 ## Selected repos
 
-1. [`ractor`](https://github.com/slawlor/ractor) - Inspired by Erlang's OTP, ractor provides save actor programming paradigms in 100% Rust.
+1. [`ractor`](https://github.com/slawlor/ractor) - Inspired by Erlang's OTP, ractor provides safe actor programming paradigms in 100% Rust.
 2. [`akd`](https://github.com/facebook/akd) - Auditable Key Directories (AKDs) are the foundation of Key Transparency at WhatsApp. This is the core logic for WhatsApp's realization.
 
 <!--
